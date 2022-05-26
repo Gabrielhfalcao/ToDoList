@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Raleway:ital,wght@1,100&display=swap');
+
+body{
+  margin: 0px;
+  background-color: rgb(35, 52, 57);
+}
+
+.topo{
+  margin: 0px;
+  background-color: rgba(29, 93, 93, 0.5);
+  height: 100px;
+  line-height: 100px;
+  box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.2)
+}
+
+.topo h1{
+  margin: 0px;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+.subtitulo{
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+.main{
+  margin: auto;
+  width: 90%;
+  height: fit-content;
+  border-radius: 20px;
+  border: solid 1px white;
+  padding: 15px;
+  display: flex;
+  align-itens: center;
+}
+
+.bloco1{
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  border: solid 1px white;
+}
+
+.bloco2{
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  border: solid 1px white;
+}
+
+.bloco3{
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  border: solid 1px white;
+}
+
+.bloco4{
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  border: solid 1px white;
+}
